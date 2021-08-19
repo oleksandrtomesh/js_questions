@@ -1,4 +1,4 @@
-#This is "Questions" App build on pure JS without any js frameworks.
+# This is "Questions" App build on pure JS without any js frameworks.
 
 This App has authorization
 
